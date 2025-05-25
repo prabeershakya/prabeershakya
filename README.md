@@ -2,8 +2,8 @@
 
 I am Prabeer shakya and a cybersecurity enthusiastic 
 
-I'm located in kathmandu
-Connect with me in [iamprabeershakya@gmail.com](mailto:iamprabeershakya@gmail.com)
+* I'm located in kathmandu
+* Connect with me in [iamprabeershakya@gmail.com](mailto:iamprabeershakya@gmail.com)
 
 
 <!--
