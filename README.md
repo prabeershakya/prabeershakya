@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Prabeer shakya and a cybersecurity enthusiastic 
+
+I'm located in kathmandu
+Connect with me in [iamprabeershakya@gmail.com](mailto:iamprabeershakya@gmail.com)
+
+
 <!--
 **prabeershakya/prabeershakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
